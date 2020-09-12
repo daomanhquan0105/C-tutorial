@@ -1,0 +1,5 @@
+﻿  phan2.cpp
+C:\Users\DELL 5559\source\repos\nhom18\Project1\phan2.cpp(1,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\DELL 5559\source\repos\nhom18\Project1\phan2.cpp(8,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\DELL 5559\source\repos\nhom18\Project1\phan2.cpp(7,12): warning C4101:  'c': unreferenced local variable

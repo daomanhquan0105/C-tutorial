@@ -1,0 +1,5 @@
+﻿  test'.cpp
+C:\Users\DELL 5559\source\repos\Project1\Project1\test'.cpp(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\DELL 5559\source\repos\Project1\Project1\test'.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\DELL 5559\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals

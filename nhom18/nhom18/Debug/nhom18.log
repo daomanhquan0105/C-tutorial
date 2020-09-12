@@ -1,0 +1,5 @@
+﻿  bai1.cpp
+C:\Users\DELL 5559\source\repos\nhom18\nhom18\bai1.cpp(145,17): warning C4804:  '<': unsafe use of type 'bool' in operation
+C:\Users\DELL 5559\source\repos\nhom18\nhom18\bai1.cpp(242,10): warning C4129:  '%': unrecognized character escape sequence
+C:\Users\DELL 5559\source\repos\nhom18\nhom18\bai1.cpp(294,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  nhom18.vcxproj -> C:\Users\DELL 5559\source\repos\nhom18\Debug\nhom18.exe

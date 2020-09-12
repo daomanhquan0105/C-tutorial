@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(149,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(150,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(153,28): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(154,28): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(231,11): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(235,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(408,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(93): warning C4715:  'timDieuKienMang': not all control paths return a value
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(199): warning C4715:  'timUCLN': not all control paths return a value
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(369): warning C4715:  'timMin': not all control paths return a value
+C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\BT xay dung ham\Source.cpp(397): warning C4715:  'kTraFibo': not all control paths return a value
+  BT xay dung ham.vcxproj -> C:\Users\DELL 5559\source\repos\baitapbuoi2-nhom18\Debug\BT xay dung ham.exe

@@ -1,0 +1,5 @@
+﻿  dulich.cpp
+C:\Users\DELL 5559\source\repos\KTLT\KTLT\dulich.cpp(32,9): warning C4101:  'k': unreferenced local variable
+C:\Users\DELL 5559\source\repos\KTLT\KTLT\dulich.cpp(49,9): warning C4101:  'j': unreferenced local variable
+C:\Users\DELL 5559\source\repos\KTLT\KTLT\dulich.cpp(49,6): warning C4101:  'i': unreferenced local variable
+  KTLT.vcxproj -> C:\Users\DELL 5559\source\repos\KTLT\Debug\KTLT.exe

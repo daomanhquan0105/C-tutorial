@@ -1,0 +1,6 @@
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\buoi5_Csharp\bin\Debug\buoi5_Csharp.exe.config
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\buoi5_Csharp\bin\Debug\buoi5_Csharp.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\buoi5_Csharp\bin\Debug\buoi5_Csharp.pdb
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\buoi5_Csharp\obj\Debug\buoi5_Csharp.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\buoi5_Csharp\obj\Debug\buoi5_Csharp.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\buoi5_Csharp\obj\Debug\buoi5_Csharp.pdb

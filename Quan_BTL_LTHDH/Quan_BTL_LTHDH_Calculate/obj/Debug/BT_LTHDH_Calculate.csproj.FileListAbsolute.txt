@@ -1,0 +1,6 @@
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH_Calculate\bin\Debug\Quan_BTL_LTHDH_Calculate.exe.config
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH_Calculate\bin\Debug\Quan_BTL_LTHDH_Calculate.exe
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH_Calculate\bin\Debug\Quan_BTL_LTHDH_Calculate.pdb
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH_Calculate\obj\Debug\BT_LTHDH_Calculate.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH_Calculate\obj\Debug\Quan_BTL_LTHDH_Calculate.exe
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH_Calculate\obj\Debug\Quan_BTL_LTHDH_Calculate.pdb

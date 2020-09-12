@@ -1,0 +1,7 @@
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\bin\Debug\phan2-1.exe.config
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\bin\Debug\phan2-1.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\bin\Debug\phan2-1.pdb
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\obj\Debug\phan2-1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\obj\Debug\phan2-1.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\obj\Debug\phan2-1.pdb
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\phan2-1\obj\Debug\phan2-1.csprojAssemblyReference.cache

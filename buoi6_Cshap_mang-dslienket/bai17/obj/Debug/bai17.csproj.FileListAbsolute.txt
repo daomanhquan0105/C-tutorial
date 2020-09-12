@@ -1,0 +1,7 @@
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\bin\Debug\bai17.exe.config
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\bin\Debug\bai17.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\bin\Debug\bai17.pdb
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\obj\Debug\bai17.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\obj\Debug\bai17.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\obj\Debug\bai17.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai17\obj\Debug\bai17.pdb

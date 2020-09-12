@@ -1,0 +1,6 @@
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.exe.config
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.exe
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.pdb
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.csprojAssemblyReference.cache
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.exe
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.pdb

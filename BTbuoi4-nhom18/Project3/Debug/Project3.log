@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL 5559\source\repos\BTbuoi4-nhom18\Project3\Source.cpp(52,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\DELL 5559\source\repos\BTbuoi4-nhom18\Project3\Source.cpp(77,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Project3.vcxproj -> C:\Users\DELL 5559\source\repos\BTbuoi4-nhom18\Debug\bai10.exe

@@ -1,0 +1,7 @@
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\bin\Debug\vidu.exe.config
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\bin\Debug\vidu.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\bin\Debug\vidu.pdb
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\obj\Debug\vidu.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\obj\Debug\vidu.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\obj\Debug\vidu.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\vidu\obj\Debug\vidu.pdb

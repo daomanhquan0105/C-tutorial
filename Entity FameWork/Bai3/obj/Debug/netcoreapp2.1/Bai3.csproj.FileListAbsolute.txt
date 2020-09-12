@@ -1,0 +1,10 @@
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\bin\Debug\netcoreapp2.1\Bai3.deps.json
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\bin\Debug\netcoreapp2.1\Bai3.runtimeconfig.json
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\bin\Debug\netcoreapp2.1\Bai3.runtimeconfig.dev.json
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\bin\Debug\netcoreapp2.1\Bai3.dll
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\obj\Debug\netcoreapp2.1\Bai3.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\obj\Debug\netcoreapp2.1\Bai3.AssemblyInfoInputs.cache
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\obj\Debug\netcoreapp2.1\Bai3.AssemblyInfo.cs
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\bin\Debug\netcoreapp2.1\Bai3.pdb
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\obj\Debug\netcoreapp2.1\Bai3.dll
+C:\Users\DELL 5559\source\repos\Entity FameWork\Bai3\obj\Debug\netcoreapp2.1\Bai3.pdb

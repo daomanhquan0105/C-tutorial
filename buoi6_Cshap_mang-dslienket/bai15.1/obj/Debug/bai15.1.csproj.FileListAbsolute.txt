@@ -1,0 +1,7 @@
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\bin\Debug\bai15.1.exe.config
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\bin\Debug\bai15.1.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\bin\Debug\bai15.1.pdb
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\obj\Debug\bai15.1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\obj\Debug\bai15.1.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\obj\Debug\bai15.1.pdb
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai15.1\obj\Debug\bai15.1.csprojAssemblyReference.cache

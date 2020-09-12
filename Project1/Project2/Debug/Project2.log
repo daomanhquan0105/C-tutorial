@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\DELL 5559\source\repos\Project1\Project2\Source.cpp(27,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project2.vcxproj -> C:\Users\DELL 5559\source\repos\Project1\Debug\Project2.exe

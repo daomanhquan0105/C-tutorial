@@ -1,0 +1,10 @@
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\bin\Debug\BTVNMayTinh.exe.config
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\bin\Debug\BTVNMayTinh.exe
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\bin\Debug\BTVNMayTinh.pdb
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.Form1.resources
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.Properties.Resources.resources
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.csproj.GenerateResource.cache
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.exe
+C:\Users\DELL 5559\source\repos\BTVNMayTinh\BTVNMayTinh\obj\Debug\BTVNMayTinh.pdb

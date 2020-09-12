@@ -1,0 +1,7 @@
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\bin\Debug\thuAAAAAAAA.exe.config
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\bin\Debug\thuAAAAAAAA.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\bin\Debug\thuAAAAAAAA.pdb
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\obj\Debug\thuAAAAAAAA.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\obj\Debug\thuAAAAAAAA.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\obj\Debug\thuAAAAAAAA.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_OOP-TinhDongGoi\thuAAAAAAAA\obj\Debug\thuAAAAAAAA.pdb

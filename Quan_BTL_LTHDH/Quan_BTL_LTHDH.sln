@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_LTHDH_InOut", "Quan_BTL_LTHDH\BT_LTHDH_InOut.csproj", "{6A223F79-A822-4F69-88A6-5F2489F67CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_LTHDH_Calculate", "Quan_BTL_LTHDH_Calculate\BT_LTHDH_Calculate.csproj", "{C3109C17-6510-45D0-A876-B1EC135FB634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A223F79-A822-4F69-88A6-5F2489F67CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A223F79-A822-4F69-88A6-5F2489F67CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A223F79-A822-4F69-88A6-5F2489F67CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A223F79-A822-4F69-88A6-5F2489F67CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3109C17-6510-45D0-A876-B1EC135FB634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3109C17-6510-45D0-A876-B1EC135FB634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3109C17-6510-45D0-A876-B1EC135FB634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3109C17-6510-45D0-A876-B1EC135FB634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1469A0-70A7-457B-9A22-D6E207B72C11}
+	EndGlobalSection
+EndGlobal

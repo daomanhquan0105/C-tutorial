@@ -1,0 +1,6 @@
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai12\obj\Debug\bai12.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai12\bin\Debug\bai12.exe.config
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai12\bin\Debug\bai12.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai12\bin\Debug\bai12.pdb
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai12\obj\Debug\bai12.exe
+C:\Users\DELL 5559\source\repos\buoi6_Cshap_mang-dslienket\bai12\obj\Debug\bai12.pdb

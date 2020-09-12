@@ -1,0 +1,13 @@
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.exe.config
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.exe
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.pdb
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.exe
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.pdb
+C:\Users\KhanhND\source\repos\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH_InOut.csprojAssemblyReference.cache
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.exe.config
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.exe
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\bin\Debug\Quan_BTL_LTHDH.pdb
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH_InOut.csprojAssemblyReference.cache
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH_InOut.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.exe
+C:\Users\DELL 5559\Downloads\Quan_BTL_LTHDH\Quan_BTL_LTHDH\Quan_BTL_LTHDH\obj\Debug\Quan_BTL_LTHDH.pdb

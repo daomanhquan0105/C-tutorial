@@ -1,0 +1,10 @@
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\bin\Debug\sql_connection.exe.config
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\bin\Debug\sql_connection.exe
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\bin\Debug\sql_connection.pdb
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.Form1.resources
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.Properties.Resources.resources
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.csproj.GenerateResource.cache
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.exe
+C:\Users\DELL 5559\source\repos\sql_connection\sql_connection\obj\Debug\sql_connection.pdb

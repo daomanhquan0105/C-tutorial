@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL 5559\source\repos\BTbuoi4-nhom18\bai9\Source.cpp(31,10): warning C4101:  'hs': unreferenced local variable
+C:\Users\DELL 5559\source\repos\BTbuoi4-nhom18\bai9\Source.cpp(86,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  bai9.vcxproj -> C:\Users\DELL 5559\source\repos\BTbuoi4-nhom18\Debug\bai9.exe

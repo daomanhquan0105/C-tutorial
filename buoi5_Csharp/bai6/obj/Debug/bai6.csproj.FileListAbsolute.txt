@@ -1,0 +1,6 @@
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\bai6\bin\Debug\bai6.exe.config
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\bai6\bin\Debug\bai6.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\bai6\bin\Debug\bai6.pdb
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\bai6\obj\Debug\bai6.exe
+C:\Users\DELL 5559\source\repos\buoi5_Csharp\bai6\obj\Debug\bai6.pdb

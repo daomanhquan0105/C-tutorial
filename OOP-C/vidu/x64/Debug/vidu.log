@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL 5559\source\repos\OOP-C\vidu\Source.cpp(59,17): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+C:\Users\DELL 5559\source\repos\OOP-C\vidu\Source.cpp(74,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vidu.vcxproj -> C:\Users\DELL 5559\source\repos\OOP-C\x64\Debug\vidu.exe

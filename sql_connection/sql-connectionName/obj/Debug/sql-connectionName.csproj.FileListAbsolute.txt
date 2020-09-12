@@ -1,0 +1,11 @@
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\bin\Debug\sql-connectionName.exe.config
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\bin\Debug\sql-connectionName.exe
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\bin\Debug\sql-connectionName.pdb
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql-connectionName.csprojAssemblyReference.cache
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql_connectionName.Properties.Resources.resources
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql-connectionName.csproj.GenerateResource.cache
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql-connectionName.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql-connectionName.exe
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql-connectionName.pdb
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql_connectionName.SingUp.resources
+C:\Users\DELL 5559\source\repos\sql_connection\sql-connectionName\obj\Debug\sql_connectionName.SingIn.resources

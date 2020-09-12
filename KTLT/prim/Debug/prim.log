@@ -1,0 +1,2 @@
+﻿  prim.cpp
+C:\Users\DELL 5559\source\repos\KTLT\prim\prim.cpp(35,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
